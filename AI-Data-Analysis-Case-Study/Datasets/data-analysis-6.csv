@@ -1,0 +1,7 @@
+pollutant,units,total_readings,average,median,minimum,maximum,variability,percentile_25th,percentile_75th,percentile_95th,who_24h_limit,who_annual_limit,pct_above_limit,concern_level
+pm10,µg/m³,737,"19,49",15,2,106,"15,83",9,24,55,45000,15000,8,High Priority
+pm25,µg/m³,737,"5,74","4,3","0,8","39,9","4,56","2,8","7,3","14,72",15000,5000,"4,7",High Priority
+co,ppm,727,"0,26","0,2",0,"1,1","0,2","0,1","0,4","0,6",35000,,0,Moderate
+no2,ppm,666,"0,03","0,02",0,"0,13","0,02","0,01","0,04","0,07",106,21,"1,2",Moderate
+o3,ppm,728,"0,02","0,02",0,"0,05","0,01","0,01","0,03","0,04",51,,0,Low
+so2,ppm,689,0,0,0,0,0,0,0,0,40,,0,Low
