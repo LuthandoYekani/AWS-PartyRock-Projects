@@ -1,11 +1,31 @@
-# CyberGuardian AI Pro
+# 🌐 CyberGuardian AI Pro
 
 ## Live Application
 
-You can access the application here:
+CyberGuardian AI Pro is available on AWS PartyRock.
 
-[[**https://partyrock.aws/u/your-link**](https://partyrock.aws/u/LuthandoYekani/bkSoCZYFt/CyberGuardian-AI-Pro)](https://partyrock.aws/u/LuthandoYekani/bkSoCZYFt/CyberGuardian-AI-Pro)
+### Launch the Application
+
+**https://partyrock.aws/u/LuthandoYekani/bkSoCZYFt/CyberGuardian-AI-Pro**
 
 ---
 
-AWS PartyRock is Amazon's no-code platform for building generative AI applications powered by Amazon Bedrock.
+## About the Application
+
+CyberGuardian AI Pro is an AI-powered phishing analysis and cybersecurity awareness platform built using AWS PartyRock.
+
+The application enables users to:
+
+- Analyse suspicious SMS messages
+- Analyse phishing emails
+- Check suspicious URLs
+- Receive AI-generated threat assessments
+- Learn cybersecurity best practices through personalised training
+
+---
+
+## Platform
+
+- AWS PartyRock
+- Amazon Bedrock Foundation Models
+- Generative AI
