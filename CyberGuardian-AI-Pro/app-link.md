@@ -4,7 +4,7 @@
 
 You can access the application here:
 
-[**https://partyrock.aws/u/your-link**](https://partyrock.aws/u/LuthandoYekani/bkSoCZYFt/CyberGuardian-AI-Pro)
+[[**https://partyrock.aws/u/your-link**](https://partyrock.aws/u/LuthandoYekani/bkSoCZYFt/CyberGuardian-AI-Pro)](https://partyrock.aws/u/LuthandoYekani/bkSoCZYFt/CyberGuardian-AI-Pro)
 
 ---
 
