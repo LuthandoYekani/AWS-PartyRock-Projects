@@ -1,12 +1,14 @@
 # Changelog
 
-## Version 1.0.0
+## v1.0.0
 
 ### Added
 
 - CyberGuardian AI Pro documentation
+- Live application link
+- Application screenshots
 - AI Data Analysis case study
-- Example prompts
-- Example datasets
+- Dataset
+- Prompt examples
 - Findings documentation
-- Screenshots
+- Initial repository structure
